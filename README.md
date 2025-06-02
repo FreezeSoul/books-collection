@@ -218,3 +218,4 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [大模型基础](https://github.com/datawhalechina/so-large-lm)
 * [动手学大模型应用开发](https://github.com/datawhalechina/llm-universe)
 * [提示工程指南](https://www.promptingguide.ai/zh)
+* [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
