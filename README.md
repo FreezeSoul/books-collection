@@ -164,13 +164,14 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
 
-## Linux
+## Linux 与 BSD
 
 * [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/)
 * [Linux入门指引](https://upclinux.github.io/intro/)
 * openSUSE Leap 42.1 非官方指南 [:us:](http://opensuse-guide.org/), [:cn:](https://lug.ustc.edu.cn/sites/opensuse-guide/)
 * [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)[:us:]
 * [Ubuntu 参考手册](https://wiki.ubuntu.com.cn/UbuntuManual)
+* [FreeBSD 从入门到跑路](https://book.bsdcn.org) - FreeBSD 中文社区（CFC）(HTML) [VitePress 镜像](https://docs.bsdcn.org) (HTML) [PDF](https://docs.bsdcn.org/bsdbook.pdf) [EPUB](https://docs.bsdcn.org/bsdbook.epub)
 
 ## Mobile Development 移动应用开发
 
